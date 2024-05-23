@@ -30,7 +30,6 @@ body{
     cursor: pointer;
     margin: 10px;
     transition: 0.4s;
-
 }
     .display{
     display: flex;
